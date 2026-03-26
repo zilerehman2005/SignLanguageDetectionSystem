@@ -1,0 +1,7 @@
+- Python 3.8 or higher
+- OpenCV
+- MediaPipe
+- TensorFlow
+- scikit-learn
+- NumPy
+- Matplotlib

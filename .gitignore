@@ -1,0 +1,18 @@
+# Virtual Environment (yeh zaroor ignore karo)
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Large or unnecessary files
+*.h5
+*.task
+data/
+dataset/
+
+# Temporary / Logs
+*.log
