@@ -1,11 +1,7 @@
-Yeh raha bilkul clean aur perfect **README.md** file ka content. Iska pura text copy karke apne project folder mein ek naya file banao naam **`README.md`** (extension .md hona zaroori hai).
-
-### README.md (Copy this entire content)
-
 ```markdown
 # Sign Language Detection System
 
-A simple real-time **Sign Language Recognition** system that can detect 4 hand signs using a webcam. 
+A simple real-time **Sign Language Recognition** system that can detect hand signs using a webcam. 
 
 Built with **MediaPipe** for hand tracking and a custom **Convolutional Neural Network (CNN)** trained using TensorFlow/Keras.
 
@@ -103,7 +99,7 @@ All packages are listed in `requirements.txt`.
 
 ---
 
-## Future Improvements
+## Future Improvements you can do yourself
 
 - Add more signs (ASL alphabet or common phrases)
 - Use data augmentation to improve accuracy
