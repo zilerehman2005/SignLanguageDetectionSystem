@@ -1,6 +1,6 @@
 """
-METHOD 2 - Test your own trained model in real time
-Run this AFTER train_model.py has finished
+Test your own trained model in real time
+Remember/keep it in mind Run this AFTER train_model.py has finished
 """
 
 import cv2
@@ -12,9 +12,8 @@ from mediapipe.tasks.python import vision
 from tensorflow.keras.models import load_model
 import os
 
-# ---------------------------------------------------------------
+
 # Paths
-# ---------------------------------------------------------------
 MODEL_PATH   = r"F:\python\sign_language_detection\hand_landmarker.task"
 MY_MODEL     = r"F:\python\sign_language_detection\my_model.h5"
 LABELS_FILE  = r"F:\python\sign_language_detection\my_labels.txt"
