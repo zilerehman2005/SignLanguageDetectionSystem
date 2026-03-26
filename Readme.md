@@ -88,24 +88,6 @@ Show your hand in front of the camera and see the prediction!
 
 All packages are listed in `requirements.txt`.
 
----
 
-## Important Notes
-
-- `venv` folder and large files like `my_model.h5`, `hand_landmarker.task`, and raw `data/` folder are ignored in this repository.
-- You need to train the model yourself after cloning the repo.
-- Make sure to update the file paths in the scripts if your project location is different.
-- Model accuracy depends on the quality and number of images you collect.
-
----
-
-## Future Improvements you can do yourself
-
-- Add more signs (ASL alphabet or common phrases)
-- Use data augmentation to improve accuracy
-- Convert model to TensorFlow Lite for better performance
-- Create a user-friendly GUI
-
----
 
 
